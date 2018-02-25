@@ -205,11 +205,8 @@ namespace Calculator
                     }
                 }
                 if (boxResult2 == "") boxResult2 = "0";
-            }else
-            {
-                secondNumSet = false;
+                drawResults();
             }
-            drawResults();
         }
 
         private void buttonClear_Click(object sender, EventArgs e)

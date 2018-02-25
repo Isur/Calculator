@@ -6,3 +6,4 @@ D:\Workspace\Programming\C#\Calculator\Calculator\obj\Release\Calculator.Propert
 D:\Workspace\Programming\C#\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
 D:\Workspace\Programming\C#\Calculator\Calculator\obj\Release\Calculator.exe
 D:\Workspace\Programming\C#\Calculator\Calculator\obj\Release\Calculator.pdb
+D:\Workspace\Programming\C#\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
